@@ -1,5 +1,7 @@
 # Disaster Incident and Rescue Management System - NIC
 
+[Video](Project_Demo.mp4)
+
 The *Disaster Incident and Rescue Management System* is a web-application dashboard developed at NIC to analyze disaster data at multiple levels. It supports effective decision-making by providing real-time, interactive visualizations that improve disaster monitoring, coordination, and rescue operations. Built using Python, Pandas, NumPy, and SQL for robust data processing, and Plotly with Streamlit for intuitive dashboard presentations, this system enables data-driven insights for enhancing public safety during emergencies.
 
 The project has been **officially adopted and actively used by the Government of Bihar**, reflecting its critical role in disaster and incident management.
@@ -33,11 +35,6 @@ This repository contains multiple analytical dashboards designed to address dist
    **Core Snippet:** Focuses on data extraction from complex queries, column-wise typing and cleaning, and succinct key metric presentation on the Streamlit dashboard.
 
 ---
-
-## Project Demo Video
-
-To provide a comprehensive overview of how the dashboards operate in practice, a project demo video is embedded below. This video demonstrates the interactive features, data visualization capabilities, and real-time data monitoring across the different disaster management modules.
-
 
 
 ## How to Use
