@@ -1,6 +1,6 @@
 # Disaster Incident and Rescue Management System - NIC
 
-[Video](Project_Demo.mp4)
+https://github.com/user-attachments/assets/8b99d9c5-c3f9-4520-98fe-ef486e8d77db
 
 The *Disaster Incident and Rescue Management System* is a web-application dashboard developed at NIC to analyze disaster data at multiple levels. It supports effective decision-making by providing real-time, interactive visualizations that improve disaster monitoring, coordination, and rescue operations. Built using Python, Pandas, NumPy, and SQL for robust data processing, and Plotly with Streamlit for intuitive dashboard presentations, this system enables data-driven insights for enhancing public safety during emergencies.
 
