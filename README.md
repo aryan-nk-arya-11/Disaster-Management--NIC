@@ -8,6 +8,14 @@ The project has been **officially adopted and actively used by the Government of
 
 ---
 
+## Important Notice
+
+Please note that the dashboard codes included in this repository are **code snippets** only and do not represent the full application source code. Due to a Non-Disclosure Agreement (NDA) with the Government authorities, sharing the complete codebase is restricted.
+
+These snippets are crafted to highlight key technical implementations and provide insight into the project's core functionality while respecting confidentiality agreements.
+
+---
+
 ## Project Overview
 
 This repository contains multiple analytical dashboards designed to address distinct aspects of disaster management:
@@ -25,6 +33,12 @@ This repository contains multiple analytical dashboards designed to address dist
    **Core Snippet:** Focuses on data extraction from complex queries, column-wise typing and cleaning, and succinct key metric presentation on the Streamlit dashboard.
 
 ---
+
+## Project Demo Video
+
+To provide a comprehensive overview of how the dashboards operate in practice, a project demo video is embedded below. This video demonstrates the interactive features, data visualization capabilities, and real-time data monitoring across the different disaster management modules.
+
+
 
 ## How to Use
 
@@ -46,4 +60,3 @@ These snippets are intended to give a clear view of the technical depth and prac
 - `Flood_Disaster_Dashboard_Snippet.py`: Flood-specific data pipeline and KPI display code.
 
 ---
-
